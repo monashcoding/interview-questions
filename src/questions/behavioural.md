@@ -38,7 +38,7 @@ _Questions specific to your role type or discipline._ Replace \<> with the role 
 - Talk about a challenge you overcame, and what you learned
 
 ## Adaptability
-- Tell me about a time you had to learn a new task at work.
+- Tell me about a time you had to learn a new task or tool at work.
 
 ## Feedback
 - How do you handle criticism with your work?
