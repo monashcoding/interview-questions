@@ -1,4 +1,14 @@
 # Behavioural Questions
+[General](#general)
+[The company](#the-company)
+[The role](#the-role)
+[Teamwork](#teamwork)
+[Conflict management](#conflict-management)
+[Problem solving](#problem-solving)
+[Adaptability](#adaptability)
+[Feedback](#feedback)
+[Time management](#time-management)
+[Initiative](#initiative)
 
 ## General
 - Tell me about yourself.
@@ -10,17 +20,18 @@
 - Tell me about your best accomplishment to date.
 - How would your parents and friends describe you?
 
-## About the company
+## The company
 - Why do you want to work for \<company>?
 - What's your favourite \<company> value?
     - Back this up with a story
 
-## About the role
-_Questions specific to your role type or discipline._ Replace \<> with the role you are interviewing for (software engineering, product management, product design, data science, etc.)
+## The role
+_Questions specific to your role type or discipline. Replace \<> with the role you are interviewing for (software engineering, product management, product design, data science, etc._
 - Why are you interested in \<role>?
 - What do you want to learn about \<role>?
 - What do you think are some of the most important skills for a \<role>?
 - How do you explain what you do to someone who has never heard of \<role>?
+- What do you think makes a good \<role>?
 
 ## Teamwork
 - Tell me about a successful team project you worked on.
@@ -42,6 +53,7 @@ _Questions specific to your role type or discipline._ Replace \<> with the role 
 
 ## Feedback
 - How do you handle criticism with your work?
+- Tell me about a time you received constructive feedback.
 - Tell me about a time when you had to give someone difficult feedback.
 
 ## Time management
