@@ -1,14 +1,14 @@
 # Behavioural Questions
-[General](#general)
-[The company](#the-company)
-[The role](#the-role)
-[Teamwork](#teamwork)
-[Conflict management](#conflict-management)
-[Problem solving](#problem-solving)
-[Adaptability](#adaptability)
-[Feedback](#feedback)
-[Time management](#time-management)
-[Initiative](#initiative)
+- [General](#general)
+- [The company](#the-company)
+- [The role](#the-role)
+- [Teamwork](#teamwork)
+- [Conflict management](#conflict-management)
+- [Problem solving](#problem-solving)
+- [Adaptability](#adaptability)
+- [Feedback](#feedback)
+- [Time management](#time-management)
+- [Initiative](#initiative)
 
 ## General
 - Tell me about yourself.
